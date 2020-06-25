@@ -1,0 +1,47 @@
+
+h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+
+    width: 20% !important;
+    border: solid grey 1px;
+    padding: 10px;
+    background-color: #FAFAFA;
+    margin-top: 10%;
+    }
+
+.inp{
+
+    margin-bottom: 3px;
+}
+#input{
+
+    width: 96%;
+    height: 100%;
+    border: solid black 1px;
+    padding: 7px;
+    border-radius: 3px;
+}
+.btn_num{
+
+    margin: 3px auto;
+    width: 20%;
+    background-color: transparent !important;
+    color: black !important;
+    border: solid 1px #007DFF !important;
+}
+
+.btn_num2{
+    background-color: transparent !important;
+    color: black !important;
+    border: solid 1px #007DFF !important;
+    width: 31%;
+}
+
+.clr{
+
+    width: 96%;
+    margin-bottom: 3px;
+}
